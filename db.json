@@ -1,6 +1,5 @@
 {
-  "cars":[],
-  "wishlisted_cars":[
+  "cars":[
    {
       "id": 1,
       "brand": "Tata",
@@ -19,5 +18,8 @@
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
+  ],
+  "wishlisted_cars":[
+  
   ]
 }
