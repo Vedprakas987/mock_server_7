@@ -12,11 +12,20 @@
     {
       "id": 2,
       "brand": "BMW",
-			"type":"AMT",
+			"type":"Automatic",
       "year": 2017,
       "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
+      "Description": "BMW Nexon with all original documents",
       "Price": 2400000
+    },
+	   {
+      "id": 3,
+      "brand": "BMW",
+			"type":"Automatic",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Nexon with all original documents",
+      "Price": 3600000
     }
   ],
   "wishlisted_cars":[]
